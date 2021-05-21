@@ -5,7 +5,7 @@
 layout: default
 ---
 
-<img src="/images/profile_picture.jpg" alt="Evan Maicus" style="width:80%; display: block; margin-left:auto; margin-right:auto;"/>
+<img src="/images/cropped_profile_picture.jpg" alt="Evan Maicus" style="width:80%; display: block; margin-left:auto; margin-right:auto;"/>
 
 My name is Evan Maicus and I recently earned my doctorate in Computer Science from [Rensselaer Polytechnic Institute](https://www.rpi.edu/)
 under the advisor [Barb Cutler](https://www.cs.rpi.edu/~cutler/).
