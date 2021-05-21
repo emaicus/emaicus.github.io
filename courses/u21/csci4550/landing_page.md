@@ -2,7 +2,7 @@
 ## Teaching Staff
 ### Professor: Evan Maicus
 __Email:__ maicue@rpi.edu  
-__Office:__  __TBA__  
+__Office:__  https://rensselaer.webex.com/meet/maicue   
 __Office Hours:__ Mondays 1-3pm, after lecture, and by appointment (send email)  
 __Webpage:__ www.emaicus.com  
 
