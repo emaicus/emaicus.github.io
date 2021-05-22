@@ -5,6 +5,7 @@ subtitle: Summer 2021
 
 ## Teaching Staff
 ### Professor: Evan Maicus
+<img src="/images/cropped_headshot.jpg" alt="Evan Maicus" style="width:40%; display: block; "/>
 __Email:__ maicue@rpi.edu  
 __Office:__  https://rensselaer.webex.com/meet/maicue   
 __Office Hours:__ Mondays 1-3pm, after lecture, and by appointment (send email)  
