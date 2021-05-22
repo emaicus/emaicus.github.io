@@ -3,6 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+title: Evan Maicus
+subtitle: 3D Printer, Writer, PhD in Computer Science
 ---
 
 <img src="/images/cropped_profile_picture.jpg" alt="Evan Maicus" style="width:80%; display: block; margin-left:auto; margin-right:auto;"/>

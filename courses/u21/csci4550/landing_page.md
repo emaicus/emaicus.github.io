@@ -1,4 +1,8 @@
-# Interactive Visualization
+---
+title: Interactive Visualization
+subtitle: Summer 2021
+---
+
 ## Teaching Staff
 ### Professor: Evan Maicus
 __Email:__ maicue@rpi.edu  
