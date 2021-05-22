@@ -23,7 +23,7 @@ Your grade in this course will be determined as follows:
 * 10% In class discussion & participation
 * 5% In class Worksheets
 * 40% Homework Assignments
-* 10% Quizzes
+* 10% Exams
 * 25% Final Project Report/Presentation
 
 
@@ -36,7 +36,7 @@ Your post should demonstrate that you did a careful and thoughtful reading of th
 the work in the paper was done (e.g., it was slow because of now-outdated machines), the difficulty of the work done (e.g., the math looked difficult),
 and empty comments regarding the quality of the work (e.g., the visualization was pretty). 
 
-Your post can respond to another student's comment/question. Multiple posts, following up on the discussion are encouraged. Including links to other sources of related background material and a summary of how that material is related are encouraged as well. You must contribute to at least 20 of the assigned reading discussions in order to pass the course.
+Your post can respond to another student's comment/question. Multiple posts, following up on the discussion are encouraged. Including links to other sources of related background material and a summary of how that material is related are encouraged as well. 
 
 ### In-Class Discussion and Participation 
 Participation is a very important component of the course. You are expected to regularly attend lecture, ask questions, and join in the in-class and online discussions.
@@ -52,25 +52,26 @@ Then we will open up the discussion to the whole class, moderated by the student
 <!-- Many conferences have assigned discussants for each paper. Here's a detailed guide to being a paper discussant:
      Tips for Discussants, by Prof Alexopoulos, University of Toronto
  -->
-_Note: It is important that everyone have posted their comment/question before 10am, so the student leading the presentation has time to review the posts in preparation for the in-class discussion._
+_Note: It is important that everyone have posted their comment/question before 8pm on the day prior to 
+the discussion, so the student leading the presentation has time to review the posts in preparation for the in-class discussion._
 
 ### In Class Worksheets
 Over the term, we will have multiple in class worksheets. Many of these will be team based, with teams chosen at random via Webex breakout rooms.
 Worksheets will be provided via Submitty course materials, and will be submitted as a Submitty gradeable.
 
 ### Homework Assignments
-There will be a number (\~8) of homework assignments throughout the term. Typically, these will be assigned on during a Friday lecture,
+There will be a number (\~8) of homework assignments throughout the term. Typically, these will be assigned during a Friday lecture,
 and will be due on the next Friday at midnight. Not all assignments will follow this pattern. 
 
 #### Late Days
-You will will begin the term with three Submitty _late days_ which may be used to turn in an assignment after its initial due date.
-Please use them as a method of aiding in your course/life balance. These late days may only be used on homework assignments (i.e., they
-cannot be used on the in class readings, nor can they be used on the final project/its presentation).
+You will begin the term with three Submitty late days which may be used to turn in an assignment after its initial due date.
+Please use them as a method of aiding in your course/life balance. These late days may only be used on homework assignments; they cannot be used on the in class readings, nor can they be used on the final project/its presentation). A maximum of 
+two late days may be used on a given assignment.
 
-To use a late day, simply submit the assignment as normal on the Submitty system. You do not need to notify your TA or instructor. For example, an assignment submitted 22 hours late (Saturday evening at 10:00pm) counts as 1 late day used. As another example, an assignment submitted 26 hours late (Sunday morning at 2:00am) counts as 2 late days used. No more than two late days may be used for any one assignment. Once your late days have been exhausted, late assignments will not be accepted without an excused absense note from the Student Experience office. 
+To use a late day, simply submit the assignment as normal on the Submitty system. You do not need to notify your TA or instructor. For example, an assignment submitted 22 hours late (Saturday evening at 10:00pm) counts as 1 late day used. As another example, an assignment submitted 26 hours late (Sunday morning at 2:00am) counts as 2 late days used. No more than two late days may be used for any one assignment. Once your late days have been exhausted, late assignments will not be accepted without an excused absence note from the Student Experience office. 
 
-### Quizzes
-We will have 2 in-class quizzes covering the lecture material and readings.
+### Exams
+We will have 2 in-class exams covering the lecture material and readings.
 
 ### Final Project
 This course will have a comprehensive, team based final project in which you will gather data, clean it, and then craft an interesting,

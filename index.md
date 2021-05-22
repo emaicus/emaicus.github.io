@@ -9,7 +9,7 @@ subtitle: 3D Printer, Writer, PhD in Computer Science
 
 <img src="/images/cropped_profile_picture.jpg" alt="Evan Maicus" style="width:80%; display: block; margin-left:auto; margin-right:auto;"/>
 
-My name is Evan Maicus and I recently earned my doctorate in Computer Science from [Rensselaer Polytechnic Institute](https://www.rpi.edu/)
+My name is Evan Maicus, and I recently earned my doctorate in Computer Science from [Rensselaer Polytechnic Institute](https://www.rpi.edu/)
 under the advisor [Barb Cutler](https://www.cs.rpi.edu/~cutler/).
 I am a principle contributor to the [Submitty](https://submitty.org/) course management system. My research has
 been in the area of automated code assessment, and in particular on the automated grading of the programming assignments
