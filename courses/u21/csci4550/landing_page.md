@@ -17,7 +17,10 @@ __Office:__  __TBA__
 __Office Hours:__ __TBA__  
 
 ## Assignments
-__TBA__
+### Homework 1: Inspirational Visualization Images
+__Due:__ Friday, May 28 @ 11:59pm  
+[Homework Specification](/courses/u21/csci4550/homeworks/homework_1)  
+
 
 ## Syllabus
 The course syllabus can be found [at this link.](/courses/u21/csci4550/syllabus)
