@@ -61,14 +61,13 @@ Worksheets will be provided via Submitty course materials, and will be submitted
 
 ### Homework Assignments
 There will be a number (\~8) of homework assignments throughout the term. Typically, these will be assigned during a Friday lecture,
-and will be due on the next Friday at midnight. Not all assignments will follow this pattern. 
+and will be due on the next Thursday at midnight. Not all assignments will follow this pattern. 
 
 #### Late Days
 You will begin the term with three Submitty late days which may be used to turn in an assignment after its initial due date.
-Please use them as a method of aiding in your course/life balance. These late days may only be used on homework assignments; they cannot be used on the in class readings, nor can they be used on the final project/its presentation). A maximum of 
-two late days may be used on a given assignment.
+Please use them as a method of aiding in your course/life balance. These late days may only be used on homework assignments; they cannot be used on the in class readings, nor can they be used on the final project/its presentation).
 
-To use a late day, simply submit the assignment as normal on the Submitty system. You do not need to notify your TA or instructor. For example, an assignment submitted 22 hours late (Saturday evening at 10:00pm) counts as 1 late day used. As another example, an assignment submitted 26 hours late (Sunday morning at 2:00am) counts as 2 late days used. No more than two late days may be used for any one assignment. Once your late days have been exhausted, late assignments will not be accepted without an excused absence note from the Student Experience office. 
+To use a late day, simply submit the assignment as normal on the Submitty system. You do not need to notify your TA or instructor. For example, an assignment submitted 22 hours late (Friday evening at 10:00pm) counts as 1 late day used. As another example, an assignment submitted 26 hours late (Saturday morning at 2:00am) counts as 2 late days used. No more than two late days may be used for any one assignment. Once your late days have been exhausted, late assignments will not be accepted without an excused absence note from the Student Experience office. 
 
 ### Exams
 We will have 2 in-class exams covering the lecture material and readings.
