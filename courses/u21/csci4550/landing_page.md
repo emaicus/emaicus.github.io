@@ -31,9 +31,9 @@ __Pick one of:__
 __OR__   
 * ["Useful Junk? The Effects of Visual Embellishment on Comprehension and Memorability of Charts", Bateman et al., CHI 2010](https://www.researchgate.net/publication/221517808_Useful_Junk_The_effects_of_visual_embellishment_on_comprehension_and_memorability_of_charts)  
 
-#### Slides
-The slides for lecture can be found [at this link.](/courses/u21/csci4550/slides/Lecture_01_Introduction.pdf)
-  
+#### Lecture
+The slides for lecture can be found [at this link.](https://www.cs.rpi.edu/academics/courses/summer21/csci4550/slides/Lecture_01_Introduction.pdf)  
+A lecture recording will be available ASAP.
 
 ## Syllabus
 The course syllabus can be found [at this link.](/courses/u21/csci4550/syllabus)
