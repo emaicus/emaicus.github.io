@@ -18,6 +18,8 @@ __Office:__  https://rensselaer.webex.com/meet/kholim
 __Office Hours:__ Mondays 1-3pm  
 
 ## Course Content
+All lecture recordings will be posted in [this YouTube playlist.](https://youtube.com/playlist?list=PLAVDiMADEAb5EPijXFSPoGU5KyyDhj-mX)
+
 ### Class 1
 #### Homework Assigned
 ___Homework 1: Inspirational Visualization Images___  
