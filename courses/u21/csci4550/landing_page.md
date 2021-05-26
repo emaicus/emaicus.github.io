@@ -17,6 +17,12 @@ __Email:__ kholim@rpi.edu
 __Office:__  https://rensselaer.webex.com/meet/kholim  
 __Office Hours:__ Mondays 1-3pm  
 
+## Important Dates:
+* __Weekly Homework Assignments:__ Usually assigned on Friday and due the following Thursday at midnight  
+* __Exam 1:__ Friday July 2  
+* __Exam 2:__ Tuesday August 10  
+* __Final Project Presentations:__  August 13, 17, 20 -- the final three lectures  
+
 ## Course Content
 All lecture recordings will be posted in [this YouTube playlist.](https://youtube.com/playlist?list=PLAVDiMADEAb5EPijXFSPoGU5KyyDhj-mX)
 
