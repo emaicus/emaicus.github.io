@@ -26,7 +26,26 @@ __Office Hours:__ Mondays 1-3pm
 ## Course Content
 All lecture recordings will be posted in [this YouTube playlist.](https://youtube.com/playlist?list=PLAVDiMADEAb5EPijXFSPoGU5KyyDhj-mX)
 
-### Class 1
+### Lecture 2, Friday May 28
+
+#### Slides
+The slides for lecture can be found [at this link.](https://www.cs.rpi.edu/academics/courses/summer21/csci4550/slides/Lecture_02_choosing_the_right_design.pdf)  
+
+#### Homework Assigned
+___Homework #2: Time-Based Datasets & Chart Junk___  
+__Due:__ Thursday, June 3 @ 11:59pm  
+[Homework Specification](/courses/u21/csci4550/homeworks/homework_2) 
+
+#### Readings Assigned
+Note: All readings must be completed and forum posts made at 8pm or earlier on the day preceding the next lecture.  
+__Pick one of:__ 
+* ["Improved force-directed layouts", Gansner and North, Graph Drawing, 1999.](https://www.graphviz.org/Documentation/GN98.pdf)   
+__OR__   
+* ["A Technique for Drawing Directed Graphs", Gansner, Koutsofios, North, & Vo, IEEE Trans. on Software Engineering, 1993."](https://www.graphviz.org/Documentation/TSE93.pdf)   
+
+---
+
+### Lecture 1, Tuesday May 25 
 
 #### Slides
 The slides for lecture can be found [at this link.](https://www.cs.rpi.edu/academics/courses/summer21/csci4550/slides/Lecture_01_Introduction.pdf)  
@@ -37,7 +56,7 @@ __Due:__ Thursday, May 27 @ 11:59pm
 [Homework Specification](/courses/u21/csci4550/homeworks/homework_1)  
 
 #### Readings Assigned
-Note: All readings must be completed at 8pm or earlier on the day preceding the next lecture.  
+Note: All readings must be completed and forum posts made at 8pm or earlier on the day preceding the next lecture.  
 __Pick one of:__ 
 * ["Eenie, Meenie, Minie, Moe: Selecting the Right Graph for Your Message", Stephen Few, 2004](http://www.perceptualedge.com/articles/ie/the_right_graph.pdf)   
 __OR__   
