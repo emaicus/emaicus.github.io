@@ -26,7 +26,16 @@ __Office Hours:__ Mondays 1-3pm
 ## Course Content
 All lecture recordings will be posted in [this YouTube playlist.](https://youtube.com/playlist?list=PLAVDiMADEAb5EPijXFSPoGU5KyyDhj-mX)
 
-### Class 1
+### Lecture 2, Friday May 28
+
+#### Homework Assigned
+___Homework #2: Time-Based Datasets & Chart Junk___  
+__Due:__ Thursday, June 3 @ 11:59pm  
+[Homework Specification](/courses/u21/csci4550/homeworks/homework_2)  
+
+---
+
+### Lecture 1, Tuesday May 25 
 
 #### Slides
 The slides for lecture can be found [at this link.](https://www.cs.rpi.edu/academics/courses/summer21/csci4550/slides/Lecture_01_Introduction.pdf)  
