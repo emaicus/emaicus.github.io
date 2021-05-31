@@ -36,7 +36,7 @@ ___Homework #3: Graph Visualization___
 __Due:__ Thursday, June 10 @ 11:59pm  
 [Homework Specification](/courses/u21/csci4550/homeworks/homework_3) 
 
-___Worksheet 2___  
+___Worksheet #2___  
 __Due:__ Sunday, June 6 @ 11:59pm  
 The worksheet can be found on the course materials page of Submitty. Complete it yourself or with one other student and
 turn it in to the Submitty gradeable by the due date.
