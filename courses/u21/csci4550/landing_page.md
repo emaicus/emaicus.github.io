@@ -26,6 +26,22 @@ __Office Hours:__ Mondays 1-3pm
 ## Course Content
 All lecture recordings will be posted in [this YouTube playlist.](https://youtube.com/playlist?list=PLAVDiMADEAb5EPijXFSPoGU5KyyDhj-mX)
 
+### Lecture 3, Tuesday June 1
+
+#### Slides
+The slides for lecture can be found [at this link.](https://www.cs.rpi.edu/academics/courses/summer21/csci4550/slides/Lecture_03_graph_visualization.pdf)  
+
+#### Readings Assigned
+Note: All readings must be completed and forum posts made at 8pm or earlier on the day preceding the next lecture.  
+__Pick one of:__ 
+* ["Social Network Clustering and Visualization using Hierarchical Edge Bundles", Jia, Garland, 
+& Hart, Computer Graphics Forum, 2011.
+](https://www.cs.rpi.edu/~cutler/classes/visualization/S20/papers/jia_edge_bundles.pdf)   
+__OR__   
+* ["Angular Brushing of Extended Parallel Coordinates", 
+Hauser, Ledermann, and Doleisch, InfoVis 2002
+](https://static.aminer.org/pdf/PDF/000/404/696/angular_brushing_of_extended_parallel_coordinates.pdf)   
+
 ### Lecture 2, Friday May 28
 
 #### Slides
