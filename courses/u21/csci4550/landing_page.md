@@ -26,6 +26,15 @@ __Office Hours:__ Mondays 1-3pm
 ## Course Content
 All lecture recordings will be posted in [this YouTube playlist.](https://youtube.com/playlist?list=PLAVDiMADEAb5EPijXFSPoGU5KyyDhj-mX)
 
+### Lecture 5, Tuesday June 8
+
+#### Slides
+The slides for lecture can be found [at this link.](https://www.cs.rpi.edu/academics/courses/summer21/csci4550/slides/Lecture_05_High_Dimensional_Data.pdf)  
+
+#### Readings Assigned
+Note: All readings must be completed and forum posts made at 8pm or earlier on the day preceding the next lecture.  
+* ["LineUp: Visual Analysis of Multi-Attribute Rankings", Gratzl, Lex, Gehlenborg, Pfister and Streit, IEEE INFOVIS 2013](http://caleydo.gehlenborg.com/papers/2013_infovis_lineup.pdf)
+
 ### Lecture 4, Friday June 4
 
 #### Slides
