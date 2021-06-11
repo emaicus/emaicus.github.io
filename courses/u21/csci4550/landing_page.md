@@ -24,7 +24,25 @@ __Office Hours:__ Mondays 1-3pm
 * __Final Project Presentations:__  August 13, 17, 20 -- the final three lectures  
 
 ## Course Content
-All lecture recordings will be posted in [this YouTube playlist.](https://youtube.com/playlist?list=PLAVDiMADEAb5EPijXFSPoGU5KyyDhj-mX)
+All lecture recordings will be posted in [this YouTube playlist.](https://youtube.com/playlist?list=PLAVDiMADEAb5EPijXFSPoGU5KyyDhj-mX)  
+Note: All readings must be completed and forum posts made at 8pm or earlier on the day preceding the next lecture.   
+
+### Lecture 6, Friday June 11
+
+#### Slides
+The slides for lecture can be found [at this link.](https://www.cs.rpi.edu/academics/courses/summer21/csci4550/slides/Lecture_06_interaction.pdf)    
+
+#### Homework Assigned
+___Homework #4: Make Something Interactive___  
+__Due:__ Thursday, June 17 @ 11:59pm  
+[Homework Specification](/courses/u21/csci4550/homeworks/homework_4) 
+
+
+#### Readings Assigned
+* ["ColorBrewer.org: An Online Tool for Selecting Colour Schemes for Maps", Harrower & Brewer, The Cartographic Journal 2003](https://www.cs.rpi.edu/~cutler/classes/visualization/S20/papers/colorbrewer.pdf)  
+
+---
+
 
 ### Lecture 5, Tuesday June 8
 
@@ -32,8 +50,9 @@ All lecture recordings will be posted in [this YouTube playlist.](https://youtub
 The slides for lecture can be found [at this link.](https://www.cs.rpi.edu/academics/courses/summer21/csci4550/slides/Lecture_05_High_Dimensional_Data.pdf)  
 
 #### Readings Assigned
-Note: All readings must be completed and forum posts made at 8pm or earlier on the day preceding the next lecture.  
 * ["LineUp: Visual Analysis of Multi-Attribute Rankings", Gratzl, Lex, Gehlenborg, Pfister and Streit, IEEE INFOVIS 2013](http://caleydo.gehlenborg.com/papers/2013_infovis_lineup.pdf)
+
+---
 
 ### Lecture 4, Friday June 4
 
@@ -61,7 +80,6 @@ None. Readings from previous lecture will be due on Tuesday, June 8.
 The slides for lecture can be found [at this link.](https://www.cs.rpi.edu/academics/courses/summer21/csci4550/slides/Lecture_03_graph_visualization.pdf)  
 
 #### Readings Assigned
-Note: All readings must be completed and forum posts made at 8pm or earlier on the day preceding the next lecture.  
 __Pick one of:__ 
 * ["Social Network Clustering and Visualization using Hierarchical Edge Bundles", Jia, Garland, 
 & Hart, Computer Graphics Forum, 2011.
@@ -84,7 +102,6 @@ __Due:__ Thursday, June 3 @ 11:59pm
 [Homework Specification](/courses/u21/csci4550/homeworks/homework_2) 
 
 #### Readings Assigned
-Note: All readings must be completed and forum posts made at 8pm or earlier on the day preceding the next lecture.  
 __Pick one of:__ 
 * ["Improved force-directed layouts", Gansner and North, Graph Drawing, 1999.](https://www.graphviz.org/Documentation/GN98.pdf)   
 __OR__   
@@ -103,7 +120,6 @@ __Due:__ Thursday, May 27 @ 11:59pm
 [Homework Specification](/courses/u21/csci4550/homeworks/homework_1)  
 
 #### Readings Assigned
-Note: All readings must be completed and forum posts made at 8pm or earlier on the day preceding the next lecture.  
 __Pick one of:__ 
 * ["Eenie, Meenie, Minie, Moe: Selecting the Right Graph for Your Message", Stephen Few, 2004](http://www.perceptualedge.com/articles/ie/the_right_graph.pdf)   
 __OR__   
