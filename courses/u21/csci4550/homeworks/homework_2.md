@@ -1,8 +1,11 @@
 ---
 title: "Homework #2: Time-Based Datasets & Chart Junk"
 subtitle: Interactive Visualization Summer 2021
+course_link: courses/u21/csci4550/landing_page
+course_title: CSCI4550
+subpage_link: courses/u21/csci4550/homeworks/homework_2
+subpage_title: Homework 2
 ---
-
 ## Specification
 This assignment should be done in a team two or three. You are welcome to work with the same people
 you met for the Lecture 2 worksheet, or form a new team. You may use an idea you brainstormed in

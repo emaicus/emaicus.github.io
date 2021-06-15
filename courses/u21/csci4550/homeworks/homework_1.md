@@ -1,6 +1,10 @@
 ---
 title: "Homework 1: Inspirational Visualization Images"
 subtitle: Interactive Visualization Summer 2021
+course_link: courses/u21/csci4550/landing_page
+course_title: CSCI4550
+subpage_link: courses/u21/csci4550/homeworks/homework_1
+subpage_title: Homework 1
 ---
 
 ### Specification

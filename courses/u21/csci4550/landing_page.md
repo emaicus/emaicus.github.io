@@ -1,6 +1,8 @@
 ---
 title: Interactive Visualization
 subtitle: Summer 2021
+course_link: courses/u21/csci4550/landing_page
+course_title: CSCI4550
 ---
 
 ## Teaching Staff

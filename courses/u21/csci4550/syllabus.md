@@ -1,7 +1,12 @@
 ---
 title: Syllabus
 subtitle: Interactive Visualization, Summer 2021
+course_link: courses/u21/csci4550/landing_page
+course_title: CSCI4550
+subpage_link: courses/u21/csci4550/syllabus
+subpage_title: Syllabus
 ---
+
 ## Course Overview
 Visualizing data is a key step in understanding many problems. This course is designed to introduce students to methods of visualizing many different types of data, such as images, numerical/statistical data, 3D surfaces, flow fields, and medical data. We will both use existing visualization software and program custom visualizations using JavaScript. Course activities include discussion of recent and classic research papers, weekly homework assignments, in-class critiques of visualization artifacts, and a final project to explore creative uses of these techniques.
 

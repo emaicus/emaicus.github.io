@@ -1,8 +1,11 @@
 ---
 title: "Homework #3: Graph Visualization"
 subtitle: Interactive Visualization Summer 2021
+course_link: courses/u21/csci4550/landing_page
+course_title: CSCI4550
+subpage_link: courses/u21/csci4550/homeworks/homework_3
+subpage_title: Homework 3
 ---
-
 ## Specification
 
 ### Crowdsourced RPI CSCI Course & Instructor Dataset

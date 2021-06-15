@@ -1,8 +1,11 @@
 ---
 title: "Homework #4: Make Something Interactive"
 subtitle: Interactive Visualization Summer 2021
+course_link: courses/u21/csci4550/landing_page
+course_title: CSCI4550
+subpage_link: courses/u21/csci4550/homeworks/homework_4
+subpage_title: Homework 4
 ---
-
 ## Specification
 The primary goal for this assignment is to familiarize yourself with a tool for creating interactive visual artifacts. [D3: Data-Driven Documents](https://d3js.org/) is a JavaScript library for manipulating documents based on data. The website contains a huge and varied collection of eye-catching and compelling examples.
 
