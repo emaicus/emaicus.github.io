@@ -27,6 +27,25 @@ __Office Hours:__ Mondays 1-3pm
 All lecture recordings will be posted in [this YouTube playlist.](https://youtube.com/playlist?list=PLAVDiMADEAb5EPijXFSPoGU5KyyDhj-mX)  
 Note: All readings must be completed and forum posts made at 8pm or earlier on the day preceding the next lecture.   
 
+
+
+
+
+
+
+### Lecture 7, Tuesday June 15
+
+#### Slides
+The slides for lecture can be found [at this link.](https://www.cs.rpi.edu/academics/courses/summer21/csci4550/slides/Lecture_07_Color.pdf)    
+
+#### Readings Assigned
+__Pick one of:__ 
+* ["Modeling Color Difference for Visualization Design"  Szafir, IEEE TVCG / IEEE VIS 2017](https://cmci.colorado.edu/visualab/VisColors/)  
+__OR__
+* ["Optimizing Color Assignment for Perception of Class Separability in Multiclass Scatterplots", Wang, Chen, Ge, Bao, Sedlmair, Fu, Deussen, and Chen, IEEE InfoVis 2018](http://www.yunhaiwang.org/infovis18/color/index.html)
+
+---
+
 ### Lecture 6, Friday June 11
 
 #### Slides
