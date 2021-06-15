@@ -267,6 +267,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (~> 214)
+  jekyll-commonmark-ghpages
   jekyll-feed (~> 0.6)
   kramdown-parser-gfm
   minima (~> 2.0)
