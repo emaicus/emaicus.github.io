@@ -31,7 +31,26 @@ __Office Hours:__ Mondays 1-3pm
 All lecture recordings will be posted in [this YouTube playlist.](https://youtube.com/playlist?list=PLAVDiMADEAb5EPijXFSPoGU5KyyDhj-mX)  
 Note: All readings must be completed and forum posts made at 8pm or earlier on the day preceding the next lecture.   
 
+<details>
+  <summary>
+    <h3> 
+      Lecture 8, Friday June 18
+    </h3> 
+  </summary>
+  <div class="expanded-details">
 
+  #### Slides
+  The slides for lecture can be found [at this link.](https://www.cs.rpi.edu/academics/courses/summer21/csci4550/slides/Lecture_08_Color_2.pdf)    
+
+  #### Homework Assigned
+  ___Homework #5: Color!___  
+  __Due:__ Thursday, June 24 @ 11:59pm  
+  [Homework Specification](/courses/u21/csci4550/homeworks/homework_5) 
+
+  #### Readings Assigned
+  * ["Stacked Graphs -- Geometry & Aesthetics", Lee Byron & Martin Wattenberg, IEEE TVCG 2008](http://leebyron.com/streamgraph/)  
+  </div>
+</details>
 
 <details>
   <summary>
