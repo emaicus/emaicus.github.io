@@ -34,6 +34,21 @@ Note: All readings must be completed and forum posts made at 8pm or earlier on t
 <details>
   <summary>
     <h3> 
+      Lecture 10, Friday June 25
+    </h3> 
+  </summary>
+  <div class="expanded-details">
+
+  #### Slides
+  The slides for lecture can be found [at this link.](https://www.cs.rpi.edu/academics/courses/summer21/csci4550/slides/Lecture_10_uncertainty.pdf)    
+
+  #### Readings Assigned
+  * ["Representing Uncertainty in Graph Edges: An Evaluation of Paired Visual Variables", Guo, Huang, and Laidlaw, IEEE TCVG 2015](http://vis.cs.brown.edu/docs/pdf/Guo-2015-RUG.pdf)  
+  </div>
+</details>
+<details>
+  <summary>
+    <h3> 
       Lecture 9, Tuesday June 22
     </h3> 
   </summary>
