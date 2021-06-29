@@ -34,6 +34,28 @@ Note: All readings must be completed and forum posts made at 8pm or earlier on t
 <details>
   <summary>
     <h3> 
+      Lecture 11, Tuesday June 29
+    </h3> 
+  </summary>
+  <div class="expanded-details">
+
+  #### Slides
+  The slides for lecture can be found [at this link.](https://www.cs.rpi.edu/academics/courses/summer21/csci4550/slides/Lecture_11_uncertainty_2.pdf)    
+
+  #### Homework Assigned
+  ___Exam 1___  
+  __Available:__ Friday July 2nd from 6am-midnight on Submitty    
+  __Time Allowed:__ 2h5m + 10m  
+  __Back Exam:__  [Previous Exam](https://www.cs.rpi.edu/academics/courses/summer21/csci4550/slides/quiz01_practice.pdf)  
+
+  ___Final Project:___ Begin thinking about your final project over break.  
+  __A link to the specification will be posted here soon!__  
+
+  </div>
+</details>
+<details>
+  <summary>
+    <h3> 
       Lecture 10, Friday June 25
     </h3> 
   </summary>
