@@ -43,7 +43,7 @@ Note: All readings must be completed and forum posts made at 8pm or earlier on t
   <div class="expanded-details">
 
   #### Slides
-  The slides for lecture can be found [at this link.](https://www.cs.rpi.edu/academics/courses/summer21/csci4550/slides/Lecture_11_ethics.pdf)    
+  The slides for lecture can be found [at this link.](https://www.cs.rpi.edu/academics/courses/summer21/csci4550/slides/Lecture_12_ethics.pdf)    
 
   #### Homework Assigned
   ___Homework #6: Final Project Ideas___  
