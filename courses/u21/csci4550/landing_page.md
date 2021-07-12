@@ -27,9 +27,39 @@ __Office Hours:__ Wednesdays 1-3pm
 * __Exam 2:__ Tuesday August 10  
 * __Final Project Presentations:__  August 13, 17, 20 -- the final three lectures  
 
+## Final Project
+For information regarding the course's final project, [please navigate to this page.](final_project)
+
 ## Course Content
 All lecture recordings will be posted in [this YouTube playlist.](https://youtube.com/playlist?list=PLAVDiMADEAb5EPijXFSPoGU5KyyDhj-mX)  
 Note: All readings must be completed and forum posts made at 8pm or earlier on the day preceding the next lecture.   
+
+<details>
+  <summary>
+    <h3> 
+      Lecture 12, Tuesday July 12
+    </h3> 
+  </summary>
+  <div class="expanded-details">
+
+  #### Slides
+  The slides for lecture can be found [at this link.](https://www.cs.rpi.edu/academics/courses/summer21/csci4550/slides/Lecture_11_ethics.pdf)    
+
+  #### Homework Assigned
+  ___Homework #6: Final Project Ideas___  
+  __Part 1 Due:__ Wednesday, July 14 @ 11:59pm  
+  __Part 2 Due:__ Thursday, July 15 @ 11:59pm  
+  __Part 3 Due:__ Tuesday, July 20 @ 11:59pm  
+  [Homework Specification](/courses/u21/csci4550/homeworks/homework_6) 
+
+  #### Readings Assigned
+  * ["Adaptive Privacy-Preserving Visualization Using Parallel Coordinates", Dasgupta & Kosara, TVCG 2011](https://kosara.net/publications/Dasgupta-InfoVis-2011.html)  
+  \
+  __AND__
+  * [Society of Professional Journalists' Code of Ethics](http://www.spj.org/pdf/ethicscode.pdf)
+
+  </div>
+</details>
 
 <details>
   <summary>
