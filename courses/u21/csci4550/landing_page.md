@@ -34,6 +34,28 @@ For information regarding the course's final project, [please navigate to this p
 All lecture recordings will be posted in [this YouTube playlist.](https://youtube.com/playlist?list=PLAVDiMADEAb5EPijXFSPoGU5KyyDhj-mX)  
 Note: All readings must be completed and forum posts made at 8pm or earlier on the day preceding the next lecture.   
 
+
+<details>
+  <summary>
+    <h3> 
+      Lecture 13, Tuesday July 16
+    </h3> 
+  </summary>
+  <div class="expanded-details">
+
+  #### Slides
+  The slides for lecture can be found [at this link.](https://www.cs.rpi.edu/academics/courses/summer21/csci4550/slides/Lecture_13_massive_info.pdf)    
+
+  #### Homework Assigned
+  ___Homework #7: Stream Graphs___  
+  __Due:__ Thursday, July 22 @ 11:59pm  
+  [Homework Specification](/courses/u21/csci4550/homeworks/homework_7) 
+
+  #### Reading Assigned
+  * [Farthest Point Seeding for Efficient Placement of Streamlines", Mebarki, Alliez, & Devillers, IEEE Visualization, 2005.](https://www.cs.rpi.edu/~cutler/classes/visualization/S20/papers/streamlines_2005.pdf)  
+
+  </div>
+</details>
 <details>
   <summary>
     <h3> 
