@@ -35,10 +35,11 @@ All lecture recordings will be posted in [this YouTube playlist.](https://youtub
 Note: All readings must be completed and forum posts made at 8pm or earlier on the day preceding the next lecture.   
 
 
+
 <details>
   <summary>
     <h3> 
-      Lecture 13, Tuesday July 16
+      Lecture 13, Friday July 16
     </h3> 
   </summary>
   <div class="expanded-details">
@@ -59,7 +60,7 @@ Note: All readings must be completed and forum posts made at 8pm or earlier on t
 <details>
   <summary>
     <h3> 
-      Lecture 12, Tuesday July 12
+      Lecture 12, Tuesday July 13
     </h3> 
   </summary>
   <div class="expanded-details">
