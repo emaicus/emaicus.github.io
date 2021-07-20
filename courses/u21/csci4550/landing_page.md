@@ -35,7 +35,22 @@ All lecture recordings will be posted in [this YouTube playlist.](https://youtub
 Note: All readings must be completed and forum posts made at 8pm or earlier on the day preceding the next lecture.   
 
 
+<details>
+  <summary>
+    <h3> 
+      Lecture 14, Tuesday July 20
+    </h3> 
+  </summary>
+  <div class="expanded-details">
 
+  #### Slides
+  The slides for lecture can be found [at this link.](https://www.cs.rpi.edu/academics/courses/summer21/csci4550/slides/Lecture_14_streamlines.pdf)    
+
+  #### Reading Assigned
+  * ["Interactive Dynamic Volume Illumination with Refraction and Caustics", Magnus & Bruckner, IEEE TVCG 2017](https://www.cs.rpi.edu/~cutler/classes/visualization/S20/papers/magnus_bruckner_2017.pdf)  
+
+  </div>
+</details>
 <details>
   <summary>
     <h3> 
