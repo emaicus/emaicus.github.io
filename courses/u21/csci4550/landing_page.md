@@ -34,7 +34,27 @@ For information regarding the course's final project, [please navigate to this p
 All lecture recordings will be posted in [this YouTube playlist.](https://youtube.com/playlist?list=PLAVDiMADEAb5EPijXFSPoGU5KyyDhj-mX)  
 Note: All readings must be completed and forum posts made at 8pm or earlier on the day preceding the next lecture.   
 
+<details>
+  <summary>
+    <h3> 
+      Lecture 15, Friday July 23
+    </h3> 
+  </summary>
+  <div class="expanded-details">
 
+  #### Slides
+  The slides for lecture can be found [at this link.](https://www.cs.rpi.edu/academics/courses/summer21/csci4550/slides/Lecture_15_volumes.pdf)    
+
+  #### Homework Assigned
+  ___Homework #8: Volume Visualization using Paraview (The Last Homework!)___  
+  __Due:__ Thursday, July 29 @ 11:59pm  
+  [Homework Specification](/courses/u21/csci4550/homeworks/homework_8) 
+
+  #### Reading Assigned
+  * ["Designing Effective Step-by-step Assembly Instructions", Agrawala, Phan, Heiser, Haymaker, Klingner, Hanrahan, & Tversky, SIGGRAPH 2003](http://graphics.stanford.edu/papers/assembly_instructions/)  
+
+  </div>
+</details>
 <details>
   <summary>
     <h3> 
