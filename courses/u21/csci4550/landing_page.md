@@ -37,6 +37,27 @@ Note: All readings must be completed and forum posts made at 8pm or earlier on t
 <details>
   <summary>
     <h3> 
+      Lecture 17, Friday July 30
+    </h3> 
+  </summary>
+  <div class="expanded-details">
+
+  #### Slides
+  The slides for lecture can be found [at this link.](https://www.cs.rpi.edu/academics/courses/summer21/csci4550/slides/Lecture_17_displays.pdf)    
+
+  #### Homework Assigned
+  ___Final Project Proposal___  
+  __Due:__ Monday, August 2  @ 11:59pm  
+  [Homework Specification](final_project#final-project-proposal) 
+
+  #### Reading Assigned
+  * ["Active Reading of Visualizations", Walny, Huron, Perin, Wun, Pusch, and Carpendale, IEEE InfoVis 2017](https://www.cs.rpi.edu/~cutler/classes/visualization/S20/papers/walny_VIS_2017.pdf)  
+
+  </div>
+</details>
+<details>
+  <summary>
+    <h3> 
       Lecture 16, Tuesday July 27
     </h3> 
   </summary>
