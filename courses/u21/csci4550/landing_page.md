@@ -37,6 +37,22 @@ Note: All readings must be completed and forum posts made at 8pm or earlier on t
 <details>
   <summary>
     <h3> 
+      Lecture 18, Tuesday August 3
+    </h3> 
+  </summary>
+  <div class="expanded-details">
+
+  #### Slides
+  The slides for lecture can be found [at this link.](https://www.cs.rpi.edu/academics/courses/summer21/csci4550/slides/Lecture_18_debugging.pdf)    
+
+  #### Reading Assigned
+  * ["What Makes a Visualization Memorable?", Borkin, Vo, Bylinskii, Isola, Sunkavalli, Oliva, & Pfister, INFOVIS 2013.](http://olivalab.mit.edu/Papers/Borkin_etal_MemorableVisualization_TVCG2013.pdf)  
+
+  </div>
+</details>
+<details>
+  <summary>
+    <h3> 
       Lecture 17, Friday July 30
     </h3> 
   </summary>
